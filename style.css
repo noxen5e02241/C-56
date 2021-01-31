@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background: linear-gradient(lime, cyan, antiquewhite);
+    font-family: Algerian;
+    font-size: 20px;
+}
+
+h1 {
+    color: antiquewhite
+}
+
+h2 {
+    color: cornsilk;
+}
